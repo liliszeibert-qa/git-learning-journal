@@ -20,3 +20,16 @@ Installed my development environment
 Configured Git
 Created my first GitHub repository
 Made my first commit and push 🚀
+
+## Day 2
+
+Completed:
+
+Created a new repository: javascript-playground
+Wrote and executed my first JavaScript program using Node.js
+Connected a local repository to GitHub
+Solved a GitHub authentication issue by switching from HTTPS to SSH
+Successfully pushed my project to GitHub
+
+Although I spent time troubleshooting, I now have a much better understanding of how Git and GitHub work together.
+
