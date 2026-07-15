@@ -64,7 +64,7 @@ Completed:
 - Executed first automated Playwright tests successfully
 - First test run result: 2 passed
 
-  Next Steps:
+Next Steps:
   
 - Understand Playwright project structure
 - Learn the role of:
