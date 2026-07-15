@@ -52,11 +52,25 @@ Completed:
 
 ## Day 4
 
-Playwright Project Setup
+Playwright Project Setup & First Test Run
+
+Completed:
 
 - Created Playwright TypeScript project
 - Configured Git repository
-- Installed compatible Playwright version (1.40.1)
+- Installed Playwright with TypeScript support
+- Configured the test environment
 - Installed Chromium browser
 - Executed first automated Playwright tests successfully
 - First test run result: 2 passed
+
+  Next Steps:
+  
+- Understand Playwright project structure
+- Learn the role of:
+    - playwright.config.ts
+    - test files
+    - locators
+    - assertions
+- Create the first automated login test
+- Introduce Page Object Model structure
