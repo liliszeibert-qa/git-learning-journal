@@ -50,5 +50,13 @@ Completed:
 - Debugged my first JavaScript issue
 - Updated my code and pushed the changes to GitHub
 
+## Day 4
 
+Playwright Project Setup
 
+- Created Playwright TypeScript project
+- Configured Git repository
+- Installed compatible Playwright version (1.40.1)
+- Installed Chromium browser
+- Executed first automated Playwright tests successfully
+- First test run result: 2 passed
