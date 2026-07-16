@@ -73,4 +73,4 @@ Next Steps:
     - locators
     - assertions
 - Create the first automated login test
-- Introduce Page Object Model structure
+- Refactor the login test using the Page Object Model (POM)
