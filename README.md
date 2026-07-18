@@ -75,7 +75,7 @@ Next Steps:
 - Create the first automated login test
 - Refactor the login test using the Page Object Model (POM)
 
-## Day 4 - JavaScript Playground: Operators and If/Else Logic
+## Day 5 - JavaScript Playground: Operators and If/Else Logic
 
 Today I continued building my JavaScript Playground project and practiced how programs can make decisions.
 
