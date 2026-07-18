@@ -74,3 +74,72 @@ Next Steps:
     - assertions
 - Create the first automated login test
 - Refactor the login test using the Page Object Model (POM)
+
+# Day 5 - JavaScript Playground: Operators and If/Else Logic
+
+Today I continued building my JavaScript Playground project and practiced how programs can make decisions.
+
+I learned how operators work in JavaScript:
+
+* Mathematical operators:
+
+  * `+` addition
+  * `-` subtraction
+  * `*` multiplication
+  * `/` division
+
+I also practiced comparison operators:
+
+* `===` checks if two values are exactly the same (value and type)
+* `!==` checks if two values are different
+* `>` and `<` compare numbers
+
+A very important lesson was understanding that data types matter. For example:
+
+```javascript
+10 === 10
+```
+
+returns `true`, but:
+
+```javascript
+10 === "10"
+```
+
+returns `false` because one is a number and the other is a string.
+
+After operators, I started learning conditional logic with `if` and `else`.
+
+I created my first simple login validation example:
+
+```javascript
+let password = "12345";
+
+if (password === "12345") {
+    console.log("Login successful");
+} else {
+    console.log("Wrong password");
+}
+```
+
+This helped me understand how a program can check a condition and choose different actions depending on whether the result is `true` or `false`.
+
+I also tested different cases:
+
+* correct password → Login successful
+* wrong password → Wrong password
+* empty password → Password is required
+
+This was interesting because it feels closer to real QA automation thinking: checking expected results for different inputs.
+
+Today I connected several JavaScript basics together:
+
+* variables
+* data types
+* booleans
+* comparison operators
+* logical operators
+* if/else decisions
+
+The next step will be making the logic more realistic with `else if` and building towards a small login validator project.
+
