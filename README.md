@@ -143,3 +143,52 @@ Today I connected several JavaScript basics together:
 
 The next step will be making the logic more realistic with `else if` and building towards a small login validator project.
 
+
+## Day 6 – Playwright Learning
+
+### What I learned
+
+- Reviewed the Playwright project structure and understood the purpose of each file.
+- Learned the basics of the Playwright API and common automation terminology:
+  - `test`
+  - `expect` (assertions)
+  - `page`
+  - `await`
+  - locators
+- Understood the relationship between manual testing and automated tests:
+  - Action → Expected Result → Assertion
+- Analyzed the generated `example.spec.ts` file line by line.
+- Wrote my first Playwright login test manually without using the Record feature.
+- Learned how to choose readable and stable locators using `getByLabel()` and `getByRole()`.
+- Discussed why stable locators are preferred over dynamic IDs.
+
+### Outcome
+
+Created my first example login test (`login.spec.ts`) and prepared it for GitHub as a portfolio example using `test.skip()`.
+
+## Next Steps
+
+- Commit the first login test example.
+- Refactor the test using the Page Object Model (POM).
+- Learn how to use environment variables (`.env`) for test credentials.
+- Add negative login test scenarios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
