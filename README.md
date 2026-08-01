@@ -166,7 +166,7 @@ The next step will be making the logic more realistic with `else if` and buildin
 
 Created my first example login test (`login.spec.ts`) and prepared it for GitHub as a portfolio example using `test.skip()`.
 
-## Next Steps
+### Next Steps
 
 - Commit the first login test example.
 - Refactor the test using the Page Object Model (POM).
