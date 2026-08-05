@@ -10,7 +10,8 @@ This repository documents my learning journey with:
 - JavaScript fundamentals
 - Test automation
 - Software Quality Assurance (QA)
-- Live coding and generative visuals
+- Playwright
+- Page Object Model
 
 ## Day 1
 
