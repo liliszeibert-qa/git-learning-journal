@@ -51,9 +51,8 @@ Completed:
 - Debugged my first JavaScript issue
 - Updated my code and pushed the changes to GitHub
 
-## Day 4
 
-Playwright Project Setup & First Test Run
+## Day 4 - Playwright Project Setup & First Test Run
 
 Completed:
 
@@ -75,6 +74,7 @@ Next Steps:
     - assertions
 - Create the first automated login test
 - Refactor the login test using the Page Object Model (POM)
+
 
 ## Day 5 - JavaScript Playground: Operators and If/Else Logic
 
@@ -175,7 +175,7 @@ Created my first example login test (`login.spec.ts`) and prepared it for GitHub
 - Add negative login test scenarios.
 
 
-# Day 7
+## Day 7
 
 Today I continued improving my JavaScript Playground repository.
 
