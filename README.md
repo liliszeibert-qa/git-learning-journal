@@ -175,7 +175,22 @@ Created my first example login test (`login.spec.ts`) and prepared it for GitHub
 - Add negative login test scenarios.
 
 
+# Day 7
 
+Today I continued improving my JavaScript Playground repository.
+
+I reviewed and refactored the existing examples to make the code cleaner, more consistent, and easier to understand. I also expanded the project with new JavaScript fundamentals, including:
+
+- Functions
+- Arrays
+- Objects
+- Loops
+
+I updated the README, improved the project structure, and made the repository more suitable as part of my QA Automation portfolio.
+
+During the process I also practiced using Git, resolved merge conflicts, and learned more about code formatting and clean project organization.
+
+The final login validator project is planned as the next step.
 
 
 
